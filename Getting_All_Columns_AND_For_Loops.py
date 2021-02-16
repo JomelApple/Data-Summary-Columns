@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 10 15:59:36 2021
+Gathers all columns in a data set. Not generic or a function yet. Will update in the future
 
-@author: Meeko's Acer Laptop
+By Jomel Manzano
+
 """
 
 import pandas 
